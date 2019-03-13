@@ -1,1 +1,7 @@
 #Visual Studio
+*.opensdf
+*.sdf
+*.suo
+*.user
+Debug/
+Release/
